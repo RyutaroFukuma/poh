@@ -14,5 +14,5 @@ else
     t.pop
   count += 1
   end
-puts m - count
+ puts m - count
 end
